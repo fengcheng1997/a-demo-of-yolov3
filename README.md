@@ -1,6 +1,7 @@
 # using yolov3 to train POI(Person of Interest) images
 a demo of yolov3 
-the images of POI come from www.douban.com
+
+The images of POI come from www.douban.com
 
 
 ## steps
