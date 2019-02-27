@@ -1,8 +1,7 @@
 # using yolov3 to train POI(Person of Interest) images
-a demo of yolov3 
+a demo of [yolov3](https://github.com/ultralytics/yolov3)
 
 The images of POI come from www.douban.com
-
 
 ## steps
 * step1: claw the images in the net
